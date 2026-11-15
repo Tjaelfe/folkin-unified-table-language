@@ -51,6 +51,6 @@ Run `python3 scripts/package.py` to check the package and generate a ZIP and a c
 
 ## Review status
 
-This is a reviewable first version. It is not published on the website or installed into an AI account. Platform installation, user trials, actual playtesting, and final publication terms are not claimed complete. No distribution license has been assigned by this prototype.
+This is a reviewable first version. Platform installation, user trials, actual playtesting, and final publication terms are not claimed complete. No distribution license has been assigned by this prototype.
 
 For release preparation, review the examples and depth of the references, test representative requests in the intended AI applications, and set the terms covering the package. The existing local alternative license draft has not been adopted automatically.
